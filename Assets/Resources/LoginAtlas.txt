@@ -1,0 +1,108 @@
+{"frames": {
+
+"btn_45_down.png":
+{
+	"frame": {"x":719,"y":921,"w":257,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":90},
+	"sourceSize": {"w":257,"h":90}
+},
+"btn_45_nrow.png":
+{
+	"frame": {"x":461,"y":921,"w":257,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":257,"h":90},
+	"sourceSize": {"w":257,"h":90}
+},
+"daqubtn_active.png":
+{
+	"frame": {"x":839,"y":736,"w":127,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":54},
+	"sourceSize": {"w":127,"h":54}
+},
+"daqubtn_normal.png":
+{
+	"frame": {"x":839,"y":681,"w":127,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":54},
+	"sourceSize": {"w":127,"h":54}
+},
+"font_chuangjianjiaose.png":
+{
+	"frame": {"x":907,"y":0,"w":111,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":111,"h":35},
+	"sourceSize": {"w":111,"h":35}
+},
+"font_denglu.png":
+{
+	"frame": {"x":907,"y":69,"w":93,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":34},
+	"sourceSize": {"w":93,"h":34}
+},
+"font_kaishi.png":
+{
+	"frame": {"x":907,"y":36,"w":95,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":32},
+	"sourceSize": {"w":95,"h":32}
+},
+"font_zhanghao.png":
+{
+	"frame": {"x":839,"y":791,"w":122,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":122,"h":35},
+	"sourceSize": {"w":122,"h":35}
+},
+"loginmiddlebg.png":
+{
+	"frame": {"x":461,"y":681,"w":377,"h":239},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":377,"h":239},
+	"sourceSize": {"w":377,"h":239}
+},
+"loginscene.png":
+{
+	"frame": {"x":0,"y":0,"w":906,"h":680},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":906,"h":680},
+	"sourceSize": {"w":906,"h":680}
+},
+"loginscenelogo.png":
+{
+	"frame": {"x":0,"y":681,"w":460,"h":328},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":460,"h":328},
+	"sourceSize": {"w":460,"h":328}
+},
+"shaizi.png":
+{
+	"frame": {"x":907,"y":104,"w":69,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":69,"h":64},
+	"sourceSize": {"w":69,"h":64}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "LoginAtlas.png",
+	"format": "RGBA5555",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:639e76e23f6a1b548be54c8e23f614a4$"
+}
+}

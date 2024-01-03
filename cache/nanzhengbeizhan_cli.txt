@@ -1,0 +1,14 @@
+难度级别	描述	地图组	关隘	估计战力
+1	Slave Camp	1	1	1500
+2	Dark Alchemist City	1	3	5000
+3	Mystery Alchemist City	2	2	30000
+4	Smith Union	2	4	80000
+5	Valor Fort	3	5	200000
+6	Treasure Coast	4	2	360000
+7	Crystal Site	4	3	550000
+8	Skyfire Guard	5	1	800000
+9	Skyfire Knight	5	4	1200000
+10	Skyfire Lord	5	3	1800000
+11	Return Of WarGod	6	2	2500000
+12	Wrath Of WarGod	7	3	3300000
+13	Revenge Of WarGod	8	5	4200000

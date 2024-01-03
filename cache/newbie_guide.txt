@@ -1,0 +1,78 @@
+﻿ID号	任务描述	存储点	任务	说明	step
+0	Dear lord, your country is being invaded, you must lead your people defeat the enemy				
+1	Congratulations!You defeat the enemy.With the advent of civilization,the mainland has sprouted with independent kingdoms.Everyone's scrambling in the arms race.You must lead our land to strength.	1	1	下一步	1
+2	As your advisor, I'll introduce you to basic commands and controls	1	1	下一步	1
+3	First, let's see if there's a quest! Tap [Quests]	1	1	任务	1
+4	[Quests] shows all quests that are in progress or can be claimed. Let's see.	1	1	下一步	1
+5	My lord has completed a quest! This is a special tribute from the people of your land. Tap [Claim]	1	1	领取	1
+6	You've obtained the gift. Close [Quests] and return to your city	1	1	关闭任务	7
+7	Now we go to the "Items" and see what's in the gift. Tap [Items]	1	1	仓库	7
+8	[Items] houses all items that you can view here. Some can also be used. Tap [Newbie Gift], then [Use] to open and see what's inside.	1	1	使用	7
+9	What a tribute! The people's welcome is warm, so you must work harder. As thanks, let's develop our city. Close [Items] and return to the city	1	1	关闭仓库	13
+10	Open [Quests] and see what's next	1	1	任务	13
+11	Oh, it's Cottage-building. Cottages are places that citizens live in, and provide steady increase in population	1	1	下一步	13
+12	Let's build a Lv 1 Cottage. Close [Quests] and return to the city	1	1	下一步	13
+13	Click [Cottage] to enter the residential area	1	1	缓慢移动，民居	13
+14	You can build Cottages on all empty land plots here. Tap the yellow outline to build a Lv 1 Cottage	1	1	建造	13
+15	The Cottage is built! Leave the residential area and collect your quest reward	1	1	等通知，关闭民居	16
+16	Tap [Quests] and claim reward	1	1	任务，领取	16
+17	Close [Quests]	1	1	关闭任务	18
+18	Buildings can be upgraded. The higher the level, the better the building effect. Now let's upgrade the Cottage to Lv 2. Tap [Cottage] to enter the residential area	1	1	民居	18
+19	Tap [Cottage]	1	1	民居房子	18
+20	Huh? Looks like we can't upgrade it yet without meeting the conditions. To upgrade to a Lv 2 Cottage, the Castle must first be Lv 2. Return to the city and upgrade the Castle to Lv 2	1	1	下一步	18
+21	Close [Cottage]	1	1	关闭民居房子	18
+22	Leave the residential area and return to the city	1	1	关闭民居	18
+23	Tap [Castle]	1	1	缓慢移动，城堡	23
+24	Tap [Upgrade]	1	1	升级	23
+25	Building and upgrading take time. Please wait a bit while the castle is being upgraded to Lv 2	1	1	等通知	27
+26	Yes, the castle is now Lv 2! Now you can upgrade the Cottage to Lv 2	1	1	缓慢移动，民居	27
+27	Tap [Cottage] to enter the residential area	1	1	民居	27
+28	Tap [Cottage]	1	1	民居房子	27
+29	Tap [Upgrade]	1	1	升级	27
+30	You will notice that building and upgrading costs gold and population. Population is continuously provided by Cottages, and gold is produced by mines	1	1	等通知，下一步	32
+31	Let's take a look at the [Mine] now. Leave the residential area and return to the city	1	1	关闭民居	32
+32	Tap [Mine] to enter the mine area	1	1	缓慢移动，金矿	32
+33	Mines can be built on all empty land plots here. Tap the yellow outline to build a Lv 1 Mine	1	1	金矿	32
+34	Gold must be produced manually. Tap [Mine]	1	1	等通知，金矿	34
+35	4 production methods are provided here. The longer the time, the more gold produced. Tap [Produce]	1	1	生产	34
+36	The mine is in production. You can collect gold when the countdown ends. You will be reminded when the time comes.	1	1	等通知，下一步	38
+37	Close [Mine]	1	1	关闭金矿房子	38
+38	At the bottom right of the mine area is a Wishing Tree. You and your friends can water it to speed up its growth. Try watering it once	1	1	浇水	38
+39	When the Wishing Tree is watered 8 times it will enter a growth CD. When it ends, you can collect a large number of Crystals! Crystals are important for speeding up building, buying items etc.	1	1	等通知，下一步	41
+40	Next,let's train some soldiers in Barrack. Close [Mine] and return to the city	1	1	等通知，关闭研究院	41
+41	Tap [Barracks] to enter the Barracks area	1	1	缓慢移动，兵营	41
+42	Barracks can be built on all empty land plots here. Tap the yellow outline to build a Lv 1 Barracks	1	1	兵营房子	41
+43	Tap [Barracks]	1	1	等通知，兵营	43
+44	Tap [Train]	1	1	训练士兵	43
+45	Yes, a [Lv 1 Cavalries] icon has appeared. Tap [Train]	1	1	骑兵，训练	43
+46	Assign the no. of units and tap [Train]	1	1	训练	43
+47	Now you have many Cavalries! Armies can only be led by Generals, so we have to go to the [Tavern] to hire a Hero	1	1	等通知，下一步	43
+48	Close [Barracks]	1	1	关闭兵营房子	43
+49	Leave the Barracks area and return to the city	1	1	关闭兵营	43
+50	Tap [Tavern]	1	1	缓慢移动，酒馆	50
+51	Tap [Hire Hero]	1	1	招募将领	50
+52	[Tavern] will periodically refresh new Heroes. You can also use a [Hero List] to instantly refresh for more powerful Heroes!	1	1	下一步	50
+53	Tap [Hire]	1	1	招募	50
+54	Now we go to the [Hero] interface to see the fellow we just hired. Close [Tavern] and return to the city	1	1	等通知，关闭酒馆	55
+55	Tap [Hero]	1	1	将领	55
+56	Equip the Beast Set obtained from the gift just now on the General, and his abilities will greatly increase	1	1	下一步	55
+57	Tap [Equip]	1	1	装备	55
+58	Let's preview a piece	1	1	装备	55
+59	The Hero is equiped! Now we assign troops to him. Close [Equip]	1	1	等通知，关闭装备	60
+60	The higher the Hero's [COM] value, the more troops he can lead	1	1	配兵	60
+61	Assign troop quantity and tap [Save]	1	1	配兵	60
+62	Everything's prepared! Nearby barbarians have caused much trouble to this land. It's time to teach them a lesson. Close [Heroes]	1	1	等通知，关闭将领	63
+63	Tap [Quests]	1	1	任务	63
+64	Tap [March]	1	1	出征	63
+65	Tap [March]	1	1	出征	63
+66	Tap the yellow outline and assign the marching Hero	1	1	选将并确定	63
+67	Tap [Start]	1	1	出征	63
+68	Troop travel takes time, but you can speed it up with just some Crystals or Diamonds. Let's try speeding it up	1	1	等通知，加速	76
+69	The marched Heroes has returned! You lose troops and Heroes are wounded in war. We have to find a way to heal those wounded Heroes. Now we go take a look at the "Medical Center"	1	1	等通知，关闭军情	71
+70	Close [Quests]	1	1	关闭任务	71
+71	Tap [Medical Center]	1	1	缓慢移动，医馆	71
+72	Tap [Heal]	1	1	将领医疗	71
+73	[Medical Center] Pots replenish some each hour, but you can also use [Pot Packs] for instant restoration	1	1	治疗	71
+74	Tap [Heal]				71
+75	The wounded Hero is healthy again!	1	1	等通知，关闭医馆	76
+76	I trust my lord has grasped the basic commands and controls. You'll figure out the rest of them in time! The fate of the kingdom is in your hands now!	1	1	结束	76

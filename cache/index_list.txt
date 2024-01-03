@@ -1,0 +1,50 @@
+备注	索引	文件名	索引列	起始行	使用类型(0:服务器客户端都加载,1:服务器,2:客户端,3:客户端服务器都不加载,可能程序会临时加载)"	各列类型(0:I,1:S,2:F)	数据库表格	校验和(由部署工具生成)	
+ItemList	1	item/item_list	0	1	0	0*1*1*0*1*0*0*0*0*0*0*1*0*0*0*0*0*0*0	excel_item_list	739fc08063791b92f1643490625799e1
+ShopItems	6	etc/store_items	0	1	0	0*0*0*0	excel_store_item	4753b33fca2242b8d42d44ad2230dbc7
+CurrencyExchangeRate	7	etc/store_conversion_rate	0	1	0	0*0	excel_store_conversion_rate	26766c056437200f33541cf1e5943f0e
+Building_List	8	building/building_list	0	1	0	0*1*0*0*0*0*0*0*0*0*0*0	excel_building_list	8d440a215a62b9eafa2de1c52e11dd82
+Building_Level_Limit_List	9	building/building_level_limit	0	1	0	0*0	excel_building_level_limit	0c8a87fc3fb4a65fbd958aa5f654b9f3
+Building_Quantity_Limit_List	10	building/building_num_limit	0	1	0	0*0*0*0	excel_building_num_limit	9acde3d0669674b284c5f12546c86067
+Barracks	11	etc/barrack_production	0	1	0	0*0	excel_barrack_production	849cb5a33dd2ed9da7d0f3c5bd561654
+Residential_Production_Configuration	12	etc/house_production	0	1	0	0*0*0*0	excel_house_production	5e304b762c055d2adc6ff5c609687b3e
+Gold_Mine_Production_Configuration	13	etc/goldore_production	0	1	0	0*0*0*0*0*0*0*0*0*0*2*0	excel_goldore_production	ba344d05c1bef868c9ba5176eb10c22a
+Speed_up_Cost_Table	14	etc/accelerate_cost	0	1	0	0*0*0	excel_accelerate_cost	bc8fd5e8ba4c560582c4286d19cf51f7
+Soldier_Table	15	etc/soldier	0	1	0	0*1*0*0*0*0*0	excel_soldier	b4cece7f98bb5713e3e3ad0293732253
+Technology_Table	16	etc/technology	0	1	0	0*0*0*2	excel_technology	20935876581d793b3b7a68e22dfd4349
+Alliance_Council_Configuration	18	alliance/alliance_congress	0	1	0	0*0*0*0*0*2*0	excel_alliance_congress	18f3b0602107a2973f8c8c4a289b8ef8
+Alliance_Development_Exchange	19	alliance/alliance_contribute_rate	0	1	0	0	excel_alliance_contribute_rate	56fd1ce83dc4b47cd19b7cbd2e0282bc
+Alliance_Creation_Conditions	20	alliance/alliance_create_cost	0	1	0	0	excel_alliance_create_cost	322f8c1407ac5f1a280aabf777a695af
+VIP_Privilege_Table	23	etc/vip_right	0	1	0	0*0*0*0*0*0*0*0*0*0*2*0	excel_vip_right	a61b1c53be67e41abac75c56e983ee3c
+Character_Level_Experience_Table	26	etc/char_level_exp	0	1	0	0*0	excel_char_level_exp	7d434cac6127a3c4db36353a6589581f
+General_Level_Experience_Table	28	etc/hero_level_exp	0	1	0	0*0*0*0	excel_hero_level_exp	4589a6d5ba1a1fee7254dc86ee8d5dde
+General_Training_Hall	29	etc/training_hall	0	1	0	0*0*0	excel_training_hall	410fd045c990ac8334de90d2b031dd5f
+Lottery_Configuration_Table	32	lottery/lottery_cfg	0	1	0	0*0*0*0*0*0	excel_lottery_cfg	2cdca4a11da777eedc36334ed85fb1a9
+Speed_up_Cost_Discount_Table	35	etc/accelerate_cost_discount	0	1	0	0*2	excel_accelerate_cost_discount	04b15fdd55f4c737d6e86f3deb75076a
+Name_Change_Cost_Table	36	etc/change_name	0	1	0	0*0*0	excel_change_name	6c456474e73b53af8f7c2d03f9a705ac
+Recharge_Configuration_Table	38	etc/recharge_diamond	0	1	0	0*0*0	excel_recharge_diamond	be8c93037340d9381efce7d10f57981d
+Character_Prohibited_Name_Table	39	etc/badname	0	0	0	1		2bc3c99f91154c9bda8b6e8b9f64f701
+Version_Configuration	40	etc/version	0	1	2	1		548b52affdd4bf9d494d359ae6ffdbda
+General_Growth_Rate_Conversion	102	etc/hero_grow	0	1	0	2*2	excel_hero_grow	ed97c76fe6f0619eec201ba7b24f1f8d
+Battle_(Subjugation)_Troop_Configuration	104	etc/combat_raid	0	1	0	0*1*1*1*1*1*0*0	excel_combat_raid	8d5d35edd7df235571ea62421ba100ca
+Task_Table	108	quest/quest_list	0	1	0	0*1*1*1*1*0*1*1*1*1*1*0*0*0*0*0*0*0*1*1*0*0*0*0*0*1*0*0*0*1*2*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0*0	excel_quest_list	1db7841e8fce18cbaca874272e3384cf
+Instance_List	109	instance/instance_list	0	1	0	0*1*1*1*1*1*1*0*0*0*0*0*0*0*0*1	excel_instance_list	0d23e2786100d4c1bfbddcbe019d6d7e
+BattleCommonConfigurationTable	111	etc/combat	0	1	0	0*0*0	excel_combat	c640df973372217c78a5d247776e0258
+World_Gold_Mine_Basic_Configuration	112	etc/worldgoldmine	0	1	0	0*1*0*1*1*1*1	excel_worldgoldmine	c89e88447c4ef34e08a48628f091d657
+World_Gold_Mine_Output_Table	113	etc/worldgoldmine_out	0	1	0	0*2	excel_worldgoldmine_out	33703fa4f4a03257819a13abc52ea680
+Timed_(Hourly)_Event_115	115	etc/fixhour	0	1	0	0*1	excel_fixhour	bcca0345e61f207ff29af5bf97e89d5e
+Troop_Type_Data	116	etc/army	0	1	0	0*1*1*2	excel_army	24f7c418a72bbdc8089ad1a8982cede3
+Healing_Effect	118	etc/heal	0	1	0	0*0	excel_heal	e7221fb63674df4f553f45e84b397f07
+New_Player_Guide	119	etc/quest_guide	0	1	2	0*1*0*0*0		4108346789e0837845c6135b3b5b6a22
+Client_Conquering_the_South_and_the_North_Configuration	201	instance/nanzhengbeizhan_cli	0	1	2			920ad4a638e0358ef0e8b33b4b428867
+Drug	202	etc/drug	0	1	0	0*0	excel_drug	35b874199417101c87aac6fe622cb04b
+Hero_Quantity_Limit	203	etc/hero_num	0	1	0	0*0	excel_hero_num	1028e390e06bff5be097f2b1830a255d
+Miscellaneous_Definitions	204	etc/cmndef	0	1	0	0*0*1	excel_cmndef	f8f8de677baa3000698fa4ea1412ada9
+Instance_Introduction	205	instance/instance_tips	0	1	2			b7699818e3a2e3020bac2f3bea7f9874
+Beginner's_Guide	209	etc/newbie_guide	0	1	2			cdc483e24999283fbcbbb65c06dd9bbe
+角色名字表	211	etc/player_name_en	0	1	2			9ec78d3fcba030bf9593d1449d9e88bf
+ClientErrorPrompt	212	etc/warn_err_tips	0	1	2			d9be7a8c3bd9503adf7b2929839bb542
+AllianceTroopDonationConfiguration	214	alliance/alliance_donate_soldier	0	1	0	0*0*2	excel_alliance_donate_soldier	da3ed82212e5cb945356e9f0b1dd82eb
+GoldMarketLevelRestriction	215	etc/gold_market_level	0	1	0	0*0	excel_gold_market_level	bb1b6bb41fc22092d292fe6ce778d9e1
+Arena	219	etc/arena	0	1	0	0*0*0*0*0*0	excel_arena	f7cd5686582aa4b5bbceff817857f709
+ArenaReward	220	etc/arena_reward	0	1	0	0*0	excel_arena_reward	3f8d6074f995c5a4ca4f5c176b15bf53
+PositionMark	221	etc/position_mark	0	1	0	0	excel_position_mark	d93a635205ef084c81978f7dc2cf9fc1

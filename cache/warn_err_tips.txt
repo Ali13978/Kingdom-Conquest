@@ -1,0 +1,343 @@
+﻿ID号	TIP
+0	Unknown error
+1	Disconnected, pls check internet
+2	Create account failed
+3	Create char failed
+4	Char name exists
+5	Account doesn't exist
+6	PW error
+7	Player online
+8	Char blank, pls create one
+9	Enter account
+10	Name too long
+11	Not enough Gold
+12	Not enough Pop
+13	Login failed
+14	Barracks built
+15	Barracks upgraded
+16	Cottage built
+17	Cottage upgraded
+18	Max building Lv reached
+19	Config load error
+20	No enough Crystals
+21	No enough Diamonds
+22	Choose to buy items
+23	Choose item
+24	Bought
+25	Only 1 gem type may be slotted in each gear piece
+26	Building queue full
+27	Building new {0} requires Lord Lv {1}
+28	Applied, pls await reply
+29	You're both friends
+30	Already researching tech
+31	Must have guild name
+32	Guild name exists
+33	Guild doesn't exist
+34	Rank is full
+35	No such account in guild
+36	Needs more
+37	Used successfully
+38	Not enough Pots
+39	Not enough Medical Center space, can't obtain max Pots. Use?
+40	Collect {0} Crystals
+41	You collected 1 {0}
+42	Donated
+43	Not enough contribution
+44	Current Hero list full, pls increase Lord Lv
+45	Current Hero is still equipped
+46	Current Hero still has troops
+47	Current Hero is in City Wall
+48	Current Hero is marched
+49	Current tech at max
+50	Battle Won
+51	Battle Lost
+52	. Loot {0} gold,{1} citizens
+53	. Looted of {0} gold,{1} citizens
+54	Loot {0} x {1}
+55	Enter correct number
+56	Signature too long
+57	Edited
+58	Hero ATK
+59	Hero DEF
+60	Hero HP
+61	Hero COM
+62	Gem Slot:
+63	Pop Production:{0}/hr
+64	Cottage Cap: {0}/{1}
+65	Barracks Cap:{0}/{1}
+66	[World]
+67	[Guild]
+68	[Team]
+69	[PM]
+70	Lord reached Lv {0}, can have {1} Heroes
+71	Gemmed gear can't be sold
+72	Lack Hero List, can buy from Shop
+73	k
+74	{0} (Gift {1}%)
+75	91money:{0}
+76	Time Left
+77	Max Hero Lv reached, upgrade Lord Lv first
+78	Max Hero growth rate reached
+79	Name edits cost {0} Diamonds
+80	Got rewards below:
+81	Guild draws used up today
+82	Can get {0} free draw daily
+83	Can't find player
+84	Consumes item 【Hero List】 to hire high-growth Heroe
+85	Delete all mail of this type?
+86	Sure you want to set all mail of this type to read?
+87	Delete this mail?
+88	Sell this item?
+89	Dismiss Hero?
+90	Delete friend?
+91	Delete foe?
+92	Lv {0} Lord to build {1}
+93	Not enough population space, Pop Scrolls can't be maximized. Use?
+94	Lord at max Lv, can't use EXP Elixir
+95	Topped-up, got {0} Diamonds. Gift {1}
+96	. Loot {0} gold,{1} citizens (obtained only {2} because pop is full)
+97	Has illegal chars, pls re-enter
+98	Normal (Lv {0})
+99	Epic (Lv {0})
+100	Must have Heroes for battle
+101	Hero isn't idle
+102	Prev battle hasn't ended
+103	Only leader can launch battle
+104	Marched target doesn't exist.
+105	Battle type unconfirmed.
+106	Marched target is protected, can't attack.
+107	March queue full, pls wait. (Become a VIP to expand march queue)
+110	Campaign deleted
+111	You cleared the campaign level.
+112	Campaign is about to close, and retries used up. Pls enter campaign again.
+120	You're already in campaign…
+121	Campaign doesn't exist
+122	Lord Lv too low for campaign
+123	Campaign cooling down…
+124	Today's free and paid tries are used up
+125	Items needed for paid tries doesn't exist
+126	Campaign team full, pls choose other teams.
+130	Only leader can launch campaign
+131	Some players not ready
+132	Milord, you haven't assigned marching Heroes
+133	Auto-battle
+134	Stop
+135	{0}:00
+140	Mine doesn't exist
+141	Mine still protected
+142	Loot mine failed
+143	You haven't occupied any mines
+144	Heroes not assigned to World Mine yet
+145	Campaign doesn't exist…
+146	Doesn't get any rewards for now
+147	Not enough troops, can't reach Hero's max force.
+148	Normal Campaign
+149	Epic War
+150	Internet request time over
+151	Top-up time over,don't try again,please contact GM
+152	Joining guild require Lord Lv to reach {0}
+153	Current Hero is in Campain
+154	Current Hero is in World Mine
+155	No videos to show you.Please try again later
+156	Dismiss troops can only get citizens,are you sure?
+157	Account name exists
+158	Price must between 5 and 10
+159	Sell num must greater than 0
+160	Sell num greater than max
+161	Lord Lv too low(Must greater than {0})
+162	At the same time you can only have one sale
+163	Gold have been bought by others
+164	Lord reached Lv{0},can submit gold sale. Only have one sale at the same time
+165	Have a Smithbook effect,the effect can't stack
+166	You are in protection,the effect can't stack 
+167	Guild Lv [0060ff]{0}[-],max num will be [0060ff]{1}[-] per day 
+168	Interval is too short,please wait for a while 
+169	Your troop is attacking others,can't use it
+170	Level {0} hero can equip
+171	Ally barracks accepted capacity is full
+172	Lord reached Lv{0} can buy gold
+173	This device is already bound account
+174	Attack fortress can loot Gold or Pop
+175	Lord reached Lv{0} can reinforce
+176	The level gap between you and target can't be greater than {0}
+177	You must deploy your troops first
+178	At 00:00,top 20 players will get reward and challenge try will be reset
+179	Your tries have used up,you can buy paid try
+180	You can't challenge lord whose rank lower than you
+181	Your upload time in CD,please wait for moment
+182	Your should upload your troops first(click [MyTroops])
+183	Lord level greater than {0} can join Arena
+184	You still have challenge try
+185	Collect successfully
+186	Your favorite is full
+300	Quest Done
+301	{0} Lord EXP
+302	{0} Gold
+303	{0}+{1} 
+304	{0} Diamonds
+305	{0} Crystals
+306	Perm
+307	Recall
+308	Speed Up
+309	Observe
+310	Cost:{0}
+311	Recalled
+312	{0} General EXP
+313	You're not in a guild, can't attack Valor City. Go to 【Embassy】 to join a guild.
+314	(Can loot citizens and gold)
+315	(Attack Valor City to loot Holy Grail)
+316	Valor City
+317	This city's Holy Grail has been looted. Enter Valor City interface and choose other cities.
+318	In Items, check if gear already has gems slotted. Exchange reward item?
+319	Hard Valor City
+320	Norm Valor City
+321	Easy Valor City
+322	Guard
+323	Mine Guard
+324	Guard
+325	Guard
+326	Savage Guard
+327	This War of Valor has ended, enter Valor City interface to view past results.
+328	Tap the yellow outline chosen.
+329	Castle is being upgraded. With the rise in building levels, upgrade time also increases, pls wait…
+330	No available tech.Pls go to 【University】research tech first.
+331	No hero.Pls tap 【Tavern】 to hire hero.
+332	Reinforce
+333	Recall reinforcements?
+334	Reinforcements have reached max for today
+335	Reinforce queue full
+336	Fortress
+337	(Attack Fortress to loot Resources)
+338	Please hire champion immediately,when the refresh,it will disappear
+339	Our total force:{0}
+340	Enemy total force:{0}
+341	Force:{0}
+401	World Mine
+402	Victor's Path
+403	World Conquest
+404	Savage Camp
+405	Advance
+406	Return
+407	Suppress
+408	Loot
+409	Attack
+410	Defend
+411	Lv {0} Hero
+412	Milord has already occupied a mine, abandon mine?
+413	Milord hasn't occupied a mine, quickly gather your troops to occupy one.
+414	Elite Mine Guard
+415	Veteran Mine Guard
+416	Skilled Mine Guard
+417	New Mine Guard
+418	Idle
+419	Marched
+420	Training
+421	Hero({0})has no troops and can't march.
+422	Milord attacked 【Victor's Path】({0}) Lv {1}, {2}
+423	Milord attacked 【World Conquest】({0}) Lv {1}，{2}
+424	Milord attacked 【Victor's Path】({0}) Lv {1}，got {2} x{3}
+425	Milord attacked 【World Conquest】({0}) Lv {1}, got {2} x{3}
+426	You lack 【{0}】, can't move city. (Can buy from Shop)
+427	Sure you want to spend 1 【{0}】to move city here?
+428	This spot is taken, find another location.
+429	You have no 【Port Scroll】. (Can buy from Shop)
+430	Can't build a city here.
+431	Invalid world map coords.
+432	Can't move your own city for now.
+433	You're still in combat, can't close campaign.
+434	Campaign members update failed.
+435	Campaign doesn't exist.
+436	Milord is attacking 【Victor's Path】({0}) Lv {1}.
+437	Milord is attacking 【World Conquest】({0}) Lv {1}.
+438	No suitable Hero to march. Go to Hero Mgmt interface and assign troops
+439	Sure you want to spend 【{0}】 to launch 【Victor's Path】 campaign?
+440	Sure you want to spend 【{0}】 to launch 【World Conquest】campaign?
+441	Quit campaign?
+442	Campaign is locked, can't quit!
+443	Sure you want to skip tutorial?
+444	Newbie reporting, say hello to everyone?
+445	Milord's attack on 【Victor's Path】 halted, Hero ({0})'s troops exhausted, can't march.
+446	Milord's attack on 【World Conquest】 halted, Hero ({0})'s troops exhausted, can't march.
+447	Hello, first time meeting. Add me as a friend and help me water my tree!
+448	No Heroes with troops chosen. Only those with armies may march.
+449	Recall marched Heroes?
+450	Milord is going to attack 【Victor's Path】({0}) campaign.
+451	Milord is going to attack 【World Conquest】({0}) campaign.
+452	March queue:  {0}/{1}(Campaigns/quests don't use march queues)
+453	Hero ({0}) isn't idle and can't get supplies.
+454	Guild War
+500	You're not in a Team, Create or Join a Team.
+501	Team doesn't exist yet, plz join another team.
+502	Team is full, plz join another team.
+503	You are still in a team, plz quit first.
+504	Someone hasn't deploy heros in your team.
+505	Please select one Member at least.
+506	The battle is still ongoing.
+507	Please select one hero at least.
+508	Do you want to end the battle?
+509	Your free tries have used up today!
+510	Your retry times have used up, and your team will be disbanded.
+600	Target is a protected VIP
+601	Max mail sent today, send failed
+602	Target mail full, send failed
+603	Guild Members (Guild mail can send unlimitedly)
+604	Personal news maxed, pls clear
+605	Friend list full, can upgrade to VIP
+606	Target friend list full
+607	Your current top-ups total {0} (excluding gifts), continue topping up {1} Diamonds to reach VIP {2}
+608	Current max VIP Lv is 5. Higher VIP rights to be released soon, thank you for your support in 【Pocketland】
+609	Cancel guild app?
+610	Quit guild?
+611	Disband guild?
+612	Fire this member?
+613	Guild roster full
+614	Own: {0} force
+615	Enemy: {0} force
+616	Cavalry (Counters Swordsman, Catapult)
+617	Lancer (Counters Cavalry, Swordsman)
+618	Swordsman (Counters Archer, Catapult)
+619	Archer (Counters Cavalry, Lancer)
+620	Catapult (Counters Lancer, Archer)
+621	This server is full,please select other servers
+622	War ends:
+623	War of Valor ({0} Grail)
+624	Normal
+625	Restore
+626	Lord Lv maxed
+627	Gem Lv maxed
+628	Valor City refresh time:
+629	. Loot Holy Grail {0}, {1} gold, {2} citizens
+630	. Loot Holy Grail {0}, {1} gold, {2} citizens (Obtained only {3} because pop is full)
+631	. Looted of Holy Grail {0}, {1} gold, {2} citizens
+632	You're in War of Valor status (own Holy Grail), can't activate truce
+633	${0}
+634	day(s)
+635	War of Valor ended
+636	Name must be filled
+637	Wrong mail format
+638	PW must be alphanumerical
+639	PW length too short
+640	PW length too long
+641	PW do not match
+642	Mail account name too long
+643	Old PW wrong
+644	Mail account registered
+645	Edited PW
+646	Devices bound
+647	Mail already registered
+700	Below are some notification content
+701	Mine can be harvested
+702	Wishing Tree can be harvested
+703	Building upgrade done
+704	Tech research done
+705	Wishing Tree can be watered
+709	Go
+710	Please manage your kingdom
+711	Your heroes await your summons
+712	We hope you'll take some time out of your busy schedule to take a look at your kingdom.
+800	Last purchase isn't finished,pls wait for a moment
+1000	Diamonds
+1001	Crystals
+1002	Gold
+1003	Pop
+

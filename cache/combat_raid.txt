@@ -1,0 +1,2 @@
+id	目标	目标描述	部队组合（army1*army2*army3*army4*army5）	部队等级和数量（level*num）	掉落道具及数量	君主经验	武将经验
+1	Brawler	Brawler's attire is good material for making Beast gear.	5*2*3*4*1	1*2	3001*15	2	5

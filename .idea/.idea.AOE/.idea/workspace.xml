@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f00ead1-77b8-4c73-9157-fb5fd797657b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Rank/RankManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Baizhan/BaizCombatItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Chat/ChatWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Battlefield/BattlefieldStorge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/Internal/Localization.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Chat/ChatManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Chat/ChatItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Store/StoreWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/WorldGoldmine/GoldmineGuardWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C6B52566-F59B-49FC-861A-7812A1EA2F6B/45/0d4a4c63/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../NextBot/Assets/Scripts/SDK/RemoteCfg/RemoteConfigSDK.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Store/RechargeWinApple.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/JinKuang/OthersJinKuangWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Store/RechargeWin91.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/Interaction/UISlider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Build/BuildingManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Friend/FriendWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Baizhan/BaizOnGuardWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/CangKu/CangKuWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/Tweening/UITweener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UICamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Rank/RankItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Treat/HurtHeroItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Rank/RankWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/cmn/MBAutoUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Quest/QuestDayFreeline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/NanBeizhan/NanBeizhanGeneralItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/cmd/STCCmd.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Alliance/DashiGuanWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TK2DROOT/tk2d/Editor/Sprites/Atlas/tk2dMaxRectsBinPack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/cmd/CTSCmd.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Quest/PopGeneralCrush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Alliance/AllianceItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/Interaction/UICheckbox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C6B52566-F59B-49FC-861A-7812A1EA2F6B/4a/63da1913/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/NanBeizhan/NanBeizhanKickWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Alliance/AllianceMemberInfoWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Login/LoginManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Alliance/AllianceInfoWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Login/LoadingWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/IAP/IAPManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SceneManager/LoadingManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Login/APIApple.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/SceneManager/SceneManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/TCP/TcpMsger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/NanBeizhan/NanBeizhanScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Store/StoreManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/cmn/CommonData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Quest/QuestVipline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerInfo/PlayerInfoManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Favorite/FavoriteWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Baizhan/BaizDeathItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/cmn/U3dCmn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerInfo/ModifyNameWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Quest/QuestGrowline.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerInfo/PlayerInfoUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PlayerInfo/PlayerCardWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Equip/HeroEquipWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Paging/MyCheckboxControlledObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Soldier/ReinforceSoldierItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/HonorBattle/HonorHistoryWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/HonorBattle/CupRankItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Setting/SettingWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/HonorBattle/CupRankWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Produce/ProduceManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/msgdeal/LogicDeal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Login/APIBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Login/API91.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C2A97E03-83E8-404C-9FC0-AE19D58F57F1/18/baf9fa24/Directory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Alliance/MemberItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Accelerate/AccelerateWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/TradeMarket/TradeMarketBuyGoldWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/TradeMarket/TradeMarketManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Equip/EquipManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Message/AnnounceItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/Interaction/UIButtonMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/NGUI/Scripts/UI/UIFont.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Defense/ShaoTaWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Defense/DefenseHero.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ChouJiang/ZhuanPan.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Baizhan/PickingGeneralManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Baizhan/BaizInstanceManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Build/YaoQianShu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ChouJiang/ZhuanPanAlliance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Baizhan/BaizGeneralRoadWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6F433C7-914F-4A8A-A115-62DE443CF6C1/25/fdf3aefc/Socket.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Friend/EnemyItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Baizhan/PickingGeneralItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/msgdeal/GameLogicMsg.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PopWindow/PopLackDiamondWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/GuildBattle/window/GBStatusManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/JiangLing/JiuGuanInfoWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Paging/PagingStorageSlot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Message/MessageManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/cmn/MBAutoUpdate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/cmn/CommonData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/cmn/U3dCmn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/JiangLing/JiuGuanInfoWin.cs" />
+        <option value="$PROJECT_DIR$/../NextBot/Assets/Scripts/SDK/RemoteCfg/RemoteConfigSDK.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Rank/RankItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Baizhan/PickingGeneralManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Battlefield/BattlefieldStorge.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/CangKu/CangKuWin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Baizhan/PickingGeneralItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/HonorBattle/CupRankWin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/NanBeizhan/NanBeizhanGeneralItem.cs" />
+        <option value="$PROJECT_DIR$/Assets/NGUI/Scripts/Interaction/UICheckbox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Chat/ChatWin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Chat/ChatManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Rank/RankWin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Paging/MyCheckboxControlledObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/IAP/BuyIAP.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Store/RechargeWin91.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/msgdeal/GameLogicMsg.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/cmd/STCCmd.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Login/API91.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Store/RechargeWinApple.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Store/StoreManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/PlayerInfo/PlayerInfoManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/IAP/IAPManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PNrjB1xP8OmcYLkFdIbzBtB3z6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="17976">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="17976" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f00ead1-77b8-4c73-9157-fb5fd797657b" name="Default Changelist" comment="" />
+      <created>1683308514363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683308514363</updated>
+      <workItem from="1683308528606" duration="6893000" />
+      <workItem from="1683355306105" duration="5506000" />
+      <workItem from="1683367204539" duration="4939000" />
+      <workItem from="1683559737926" duration="9785000" />
+      <workItem from="1683815361802" duration="3140000" />
+      <workItem from="1683946798101" duration="13161000" />
+      <workItem from="1684033182079" duration="11337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="517" height="466" key="DebuggerActiveHint" timestamp="1684001189226">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="517" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1684001189226" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.2.center" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.center/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.2.left" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.left/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.2.right" timestamp="1684070936000">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.2.right/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936000" />
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom" timestamp="1684070936001">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936001" />
+    <state width="1877" height="352" key="GridCell.Tab.3.center" timestamp="1684070936001">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.center/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936001" />
+    <state width="1877" height="352" key="GridCell.Tab.3.left" timestamp="1684070936001">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.left/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936001" />
+    <state width="1877" height="352" key="GridCell.Tab.3.right" timestamp="1684070936001">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.3.right/0.0.1920.1050@0.0.1920.1050" timestamp="1684070936001" />
+    <state x="603" y="257" width="714" height="536" key="find.popup" timestamp="1684075886792">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="603" y="257" width="714" height="536" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1684075886792" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1683363724845">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1683363724845" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Baizhan/BaizGeneralRoadWin.cs</url>
+          <line>179</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Baizhan/BaizGeneralRoadWin.cs" initialLine="179">
+            <startOffsets>
+              <option value="3523" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3565" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Baizhan/BaizGeneralRoadWin.cs</url>
+          <line>102</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Baizhan/BaizGeneralRoadWin.cs" initialLine="102">
+            <startOffsets>
+              <option value="2260" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2292" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs</url>
+          <line>420</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs" initialLine="420">
+            <startOffsets>
+              <option value="11133" />
+            </startOffsets>
+            <endOffsets>
+              <option value="11164" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Baizhan/PickingGeneralManager.cs</url>
+          <line>72</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Baizhan/PickingGeneralManager.cs" initialLine="72">
+            <startOffsets>
+              <option value="1604" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1624" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Baizhan/PickingGeneralManager.cs</url>
+          <line>64</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Baizhan/PickingGeneralManager.cs" initialLine="64">
+            <startOffsets>
+              <option value="1444" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1488" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs</url>
+          <line>194</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs" initialLine="194">
+            <startOffsets>
+              <option value="4660" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4685" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs</url>
+          <line>297</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs" initialLine="297">
+            <startOffsets>
+              <option value="7555" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7580" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs</url>
+          <line>136</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs" initialLine="136">
+            <startOffsets>
+              <option value="3385" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3420" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs</url>
+          <line>47</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Baizhan/PopGeneralRoadBar.cs" initialLine="47">
+            <startOffsets>
+              <option value="1165" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1199" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Script/Store/RechargeWin91.cs</url>
+          <line>94</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Script/Store/RechargeWin91.cs" initialLine="94">
+            <startOffsets>
+              <option value="2352" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2366" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
